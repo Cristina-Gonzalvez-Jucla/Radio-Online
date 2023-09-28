@@ -19,7 +19,7 @@ The Radio Online application is built using the following technologies:
 - HTML5
 - CSS3
 - JavaScript
-- [Your Streaming Library/Framework]
+- React
 
 ## Features
 
